@@ -29,7 +29,7 @@ end
 
 students = []
 10.times do
-students << Student.new('Juan', 4, 5)
+students << Student.new('Juan', 4, 3)
 end
 
 puts students[0].result
